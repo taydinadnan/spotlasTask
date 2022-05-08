@@ -1,16 +1,57 @@
-# spotlastask1
+# Spotlas Flutter Task
 
 A new Flutter project.
 
-## Getting Started
+## Screenshots of the project :
 
-This project is a starting point for a Flutter application.
+![url_shortener](https://github.com/taydinadnan/spotlasTask/blob/main/ss.png)
 
-A few resources to get you started if this is your first Flutter project:
+## MP4 of the project :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/taydinadnan/spotlasTask/blob/main/Simulator%20Screen%20Recording-_1.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+### Brief
+
+
+1.This coding test has been designed to assess the coding ability of potential candidates for a Frontend Developer role at Spotlas.
+
+2.Once you have completed the test please upload your project on GitHub and email the link to wasil@spotlas.com as well as a screen recording demonstrating your solutions.
+
+• Implement the Feed Tab from the Spotlas App using the designs and endpoint provided in the Resources
+
+Requirements
+
+• Recommendation View
+
+‣ Implement the image slider for multiple images.
+
+‣ Implement User & Spot details with shadows.
+
+‣ Bonus - Implement action for saving Recommendation.
+
+• Toolbar
+
+‣ Implement the toolbar UI only with no actions.
+
+‣ Bonus - Implement action for Liking Recommendation.
+
+• Caption
+
+‣ Implement the open and close animation to show the full & partial caption.
+
+‣ minimum lines = 3
+
+‣ Bonus - Attach a more or less label at the end of the caption when open or closed.
+
+RECRUITMENT
+
+   • Tags
+
+ ‣ Implement the tags view UI only with no actions.
+
+
