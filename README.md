@@ -17,9 +17,6 @@ https://github.com/taydinadnan/spotlasTask/blob/main/Simulator%20Screen%20Record
 
 ### Brief
 
-
-1.This coding test has been designed to assess the coding ability of potential candidates for a Frontend Developer role at Spotlas.
-
 • Implement the Feed Tab from the Spotlas App using the designs and endpoint provided in the Resources
 
 Requirements
